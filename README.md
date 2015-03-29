@@ -1,5 +1,7 @@
 Continuum Editor
 ==============
 
-* Requires nw.js (Node Webkit) v0.11.6 or greater
+[![Join the chat at https://gitter.im/Continuum-Editor/Continuum-Editor](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Continuum-Editor/Continuum-Editor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+* Requires nw.js (Node Webkit) v0.12.0 or greater
 
